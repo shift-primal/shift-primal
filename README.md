@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shift-primal
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning web development, python, django
+- 🌱 I’m currently learning web development, react, nextjs
 - ⚡ Fun fact: i can solve a rubiks cube in about 30 seconds
 
 <!---
