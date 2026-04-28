@@ -26,7 +26,6 @@
 
 - [Wastescope](https://wastescope.haugestol.com)
 - [PokeDex Web Application](https://kasper-pokedex.netlify.app/)
-- [Anteria](https://anteria.no)
 
 ---
 
