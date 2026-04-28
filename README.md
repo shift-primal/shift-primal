@@ -22,6 +22,14 @@
 
 ---
 
+**Some of my work**
+
+- [Wastescope](https://wastescope.haugestol.com)
+- [PokeDex Web Application](https://kasper-pokedex.netlify.app/)
+- [Anteria](https://anteria.no)
+
+---
+
 ## 🌱 Currently Learning
 
 - Object-Oriented Programming in **C# / .NET**
