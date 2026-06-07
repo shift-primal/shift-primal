@@ -40,7 +40,7 @@ products.
 
 ## 🚀 Projects
 
-**[Wastescope](https://wastescope.haugestol.com)**
+**[Wastescope (kommer snart)]()**
 <br>
 - Personal finance tracker for Norwegian bank CSV exports.
 
