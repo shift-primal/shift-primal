@@ -65,7 +65,8 @@ products.
 **GET Academy** &nbsp;·&nbsp; Software Development School &nbsp;·&nbsp; 2025–present
 
 - Fagskolen &nbsp;_(2025–2026)_
-- Get Prepared &nbsp;_(2026–present)_
+- Fagskolen - Frontend fordypning &nbsp;_(2026-present)_
+- GET Prepared &nbsp;_(2026–present)_
 
 ---
 
