@@ -44,9 +44,12 @@ products.
 <br>
 - Personal finance tracker for Norwegian bank CSV exports.
 
-**[PokéDex Web Application](https://kasper-pokedex.netlify.app/)**
+**[PokéDex Web Application (2026)](https://pokemon.haugestol.com/)**
+- Browse, search and inspect Pokémon. Built with TanStack Start, Radix UI and Data from PokeAPI
+
+**[PokéDex Web Application (2025)](https://kasper-pokedex.netlify.app/)**
 <br>
-- Interactive Pokédex built with React — browse, search, and explore Pokémon via the PokéAPI.
+- Older Pokémon application made in 2025 using React and React Router
 
 ---
 
