@@ -40,16 +40,17 @@ products.
 
 ## 🚀 Projects
 
-**[Wastescope (kommer snart)]()**
-<br>
-- Personal finance tracker for Norwegian bank CSV exports.
-
 **[PokéDex Web Application (2026)](https://pokemon.haugestol.com/)**
 - Browse, search and inspect Pokémon. Built with TanStack Start, Radix UI and Data from PokeAPI
 
 **[PokéDex Web Application (2025)](https://kasper-pokedex.netlify.app/)**
 <br>
 - Older Pokémon application made in 2025 using React and React Router
+
+**[Wastescope (kommer snart)]()**
+<br>
+- Personal finance tracker for Norwegian bank CSV exports.
+
 
 ---
 
