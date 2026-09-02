@@ -47,6 +47,9 @@ products.
 <br>
 - Older Pokémon application made in 2025 using React and React Router
 
+**[Personal Quiz (Norwegian)](https://quiz.haugestol.com/)**
+- Training project to learn more about databases, deployment and UI libraries like ShadCN and Base/Radix UI
+
 **[Wastescope (kommer snart)]()**
 <br>
 - Personal finance tracker for Norwegian bank CSV exports.
