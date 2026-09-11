@@ -5,6 +5,7 @@
 Full-stack developer &nbsp;·&nbsp; TypeScript · React · C# / .NET
 
 [![Email](https://img.shields.io/badge/kasper@haugestol.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kasper@haugestol.com) &nbsp;
+[![Homepage](https://img.shields.io/badge/haugestol.com-B8D6BE?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWdsb2JlIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0xMiAyYTE0LjUgMTQuNSAwIDAgMCAwIDIwIDE0LjUgMTQuNSAwIDAgMCAwLTIwIi8+PHBhdGggZD0iTTIgMTJoMjAiLz48L3N2Zz4=&logoColor=white)](https://haugestol.com/) &nbsp;
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Kasper%20Haugestøl-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/kasperhaugestol/) &nbsp;
 [![Discord](https://img.shields.io/badge/pprimal-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/223913551767535627)
 
@@ -40,6 +41,9 @@ products.
 
 ## 🚀 Projects
 
+**[Portfolio](https://haugestol.com)**
+- My personal portfolio, includes projects, info about me and my resume
+
 **[PokéDex Web Application (2026)](https://pokemon.haugestol.com/)**
 - Browse, search and inspect Pokémon. Built with TanStack Start, Radix UI and Data from PokeAPI
 
@@ -52,7 +56,7 @@ products.
 
 **[Wastescope (kommer snart)]()**
 <br>
-- Personal finance tracker for Norwegian bank CSV exports.
+- Personal finance tracker for Norwegian bank CSV exports
 
 
 ---
