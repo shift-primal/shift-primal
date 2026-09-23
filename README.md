@@ -54,7 +54,7 @@ products.
 **[Personal Quiz (Norwegian)](https://quiz.haugestol.com/)**
 - Training project to learn more about databases, deployment and UI libraries like ShadCN and Base/Radix UI
 
-**[Wastescope (kommer snart)]()**
+**[Wastescope](https://ws.haugestol.com/)**
 <br>
 - Personal finance tracker for Norwegian bank CSV exports
 
