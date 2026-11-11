@@ -6,8 +6,7 @@ Full-stack developer &nbsp;·&nbsp; TypeScript · React · C# / .NET
 
 [![Email](https://img.shields.io/badge/kasper@haugestol.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kasper@haugestol.com) &nbsp;
 [![Homepage](https://img.shields.io/badge/haugestol.com-B8D6BE?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWdsb2JlIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0xMiAyYTE0LjUgMTQuNSAwIDAgMCAwIDIwIDE0LjUgMTQuNSAwIDAgMCAwLTIwIi8+PHBhdGggZD0iTTIgMTJoMjAiLz48L3N2Zz4=&logoColor=white)](https://haugestol.com/) &nbsp;
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Kasper%20Haugestøl-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/kasperhaugestol/) &nbsp;
-[![Discord](https://img.shields.io/badge/pprimal-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/223913551767535627)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Kasper%20Haugestøl-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/kasperhaugestol/)
 
   </div>
 
@@ -41,23 +40,26 @@ products.
 
 ## 🚀 Projects
 
-**[Portfolio](https://haugestol.com)**
-- My personal portfolio, includes projects, info about me and my resume
+**[Wastescope](https://ws.haugestol.com/)** · [code](https://github.com/shift-primal/wastescope)
+- Personal finance dashboard. Drop in a bank export and see where your money goes
 
-**[PokéDex Web Application (2026)](https://pokemon.haugestol.com/)**
-- Browse, search and inspect Pokémon. Built with TanStack Start, Radix UI and Data from PokeAPI
+**[txcategorizer](https://www.npmjs.com/package/txcategorizer)** · [code](https://github.com/shift-primal/txcategorizer)
+- npm package that parses and categorizes Norwegian bank exports (DNB, Valle) into typed transactions. Powers Wastescope
 
-**[PokéDex Web Application (2025)](https://kasper-pokedex.netlify.app/)**
-<br>
-- Older Pokémon application made in 2025 using React and React Router
+**[Klyndre](https://klyndre.haugestol.com/)** · [code](https://github.com/shift-primal/klyndre)
+- Discord bot that chats (xAI Grok) and plays music, with a web dashboard for per-server settings
 
-**[Personal Quiz (Norwegian)](https://quiz.haugestol.com/)**
-- Training project to learn more about databases, deployment and UI libraries like ShadCN and Base/Radix UI
+**[Spot](https://spot.haugestol.com/)** · [code](https://github.com/shift-primal/spot)
+- Shared real-time drawing canvas: Socket.IO, tiled rendering, SQLite persistence and stroke compaction
 
-**[Wastescope](https://ws.haugestol.com/)**
-<br>
-- Personal finance tracker for Norwegian bank CSV exports
+**[Pokédex](https://pokemon.haugestol.com/)** · [code](https://github.com/shift-primal/pokedex)
+- Full National Pokédex built with TanStack Start on PokéAPI
 
+**[Personal Quiz (Norwegian)](https://quiz.haugestol.com/)** · [code](https://github.com/shift-primal/quiz)
+- Training project for databases, deployment and shadcn / Base UI
+
+**[Portfolio](https://haugestol.com)** · [code](https://github.com/shift-primal/haugestol_homepage)
+- My site, with projects, CV and GitHub activity
 
 ---
 
@@ -91,4 +93,4 @@ products.
 
 ## ✨ Beyond Code
 
-Music production &nbsp;·&nbsp; Rubik's cube speedsolving (~20 sec) &nbsp;·&nbsp; Gaming
+Music production &nbsp;·&nbsp; Rubik's cube speedsolving (~20 sec)
